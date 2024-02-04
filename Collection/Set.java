@@ -1,4 +1,4 @@
-package Collections;
+package Collection;
 // Set Interface can be instantiated as:
 
 // Set<data-type> s1 = new HashSet<data-type>();  

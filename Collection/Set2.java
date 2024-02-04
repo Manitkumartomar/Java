@@ -1,4 +1,4 @@
-package Collections;
+package Collection;
 // SortedSet Interface...
 // SortedSet is the alternate of Set interface that provides a total ordering on its elements.
 // The SortedSet can be instantiated as: SortedSet<data-type> set = new TreeSet();  
