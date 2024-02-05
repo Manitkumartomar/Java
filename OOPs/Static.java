@@ -1,3 +1,5 @@
+package OOPs;
+
 //Java Program to demonstrate the use of static variable and static method..
 
 class Employees{
